@@ -1,6 +1,15 @@
 ---
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
+import "../base.css";
+
+type Props = {
+  title?: string;
+  description?: string;
+};
+
+const { title = "RWPOA", description = "Rolling Woods HOA Information" } =
+  Astro.props;
 ---
 
 <html lang="en">
@@ -9,16 +18,22 @@ import Header from "../components/Header.astro";
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
+    <title>{title}</title>
+    <meta name="description" content={description} />
     <script
       is:inline
       src="https://identity.netlify.com/v1/netlify-identity-widget.js"
     ></script>
   </head>
   <body>
-    <Header />
-    <slot />
-    <Footer />
+    <div>
+      <Header />
+      <main>
+        <slot />
+      </main>
+      <Footer />
+    </div>
+
     <script>
       // @ts-nocheck
       if (window.netlifyIdentity) {
