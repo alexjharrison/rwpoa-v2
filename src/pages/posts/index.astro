@@ -1,0 +1,9 @@
+---
+import { getCollection } from "astro:content";
+
+const posts = await getCollection("posts");
+---
+
+<ul>
+  {posts.map(post => <li>{post.data.date.toLocaleDateString()}</li>)}
+</ul>

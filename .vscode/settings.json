@@ -3,5 +3,6 @@
     "tailwindCSS.includeLanguages": {
         "plaintext": "astro",
     },
-    "css.lint.unknownAtRules": "ignore"
+    "css.lint.unknownAtRules": "ignore",
+    "prettier.arrowParens": "avoid"
 }
