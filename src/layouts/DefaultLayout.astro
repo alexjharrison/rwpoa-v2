@@ -35,10 +35,19 @@ const { title = "RWPOA", description = "Rolling Woods HOA Information" } =
     </div>
     <script>
       // Run time JS scripts
-      import activateNetlifyIdentity from "./netlify_identity";
-      // import activatePageTransitions from "./page_transitions";
-      activateNetlifyIdentity();
-      // activatePageTransitions();
+
+      // @ts-nocheck
+      export default () => {
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      };
     </script>
   </body>
 </html>
