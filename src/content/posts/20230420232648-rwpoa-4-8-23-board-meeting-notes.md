@@ -7,13 +7,13 @@ A Rolling Woods Property Owners Association Board Meeting was held on Saturday A
 
 The purpose of the meeting was to prepare for the May 6 Annual Membership Meeting. 
 
-Board Elections
+### Board Elections
 
 •	We currently have 7 board members and could use two more members to complete the board.
 •	Dave, Kyle and Terry have indicated they will run again. Doug and Joan have indicated they are looking for replacements after holding their positions for 12+ years but are willing to run again. 
 •	Dave will follow up on addition/ replacement possibilities for the May Meeting. 
 
-Covenants
+### Covenants
 
 •	Three years ago, the Board submitted a proposed update to the covenants with the intent to remove unnecessary restrictions (which are virtually unenforceable anyway). 
 •	Ballots were included in the annual Mailing for those who had not yet responded. 
@@ -21,7 +21,7 @@ Covenants
 •	We have targeted the end of 2023 to complete this activity.   
 
 
-Dues 
+### Dues 
 
 •	Joan provided a Treasurer’s Report as shown in Attachment I. Since interest rates have finally risen, we have invested in interest bearing Certificates of Deposit and bank accounts to maximize return. These are tabulated in the report. 
 •	Emails have been sent to all delinquent members requesting that dues be paid in full. Our dues are far less than comparable HOA’s in the area, primarily because we rely on volunteers to maintain the Association. As provided for in the by-laws, a $25 late fee is assessed for payment received after the Annual Meeting.  
@@ -29,11 +29,11 @@ Dues
 •	Dock replacement is estimated at a minimum of $150,000, which we do not now have. The current plan is to continue to repair docks as necessary out of current funds (see below). 
 •	In order to build upon available funds, Dave has proposed a plan to increase dues by $50 to $250/year. This will be discussed at the Annual Meeting. The issue will be reopened annually as needs become clearer.    
 
-Short Term Rentals (David)
+### Short Term Rentals (David)
 
 •	Neighborhood facilities are being used by short term renters. Special means of covering RWPOA costs were discussed. The possibility that an annual fee be charged for AirBnb or Vrbq sites has Board support. The appropriate amount for 2024 will be discussed at the Annual Meeting. 
 
-Mailboxes
+### Mailboxes
 
 •	According to our postman, we are now out of available boxes.
 •	On Nov 18, Dave, Doug, and Joan met with Orange Postmaster, David Hogsten, and agreed to the following to expand the number of mailboxes available at the community entrance.
@@ -49,18 +49,18 @@ o	Dave acquired and installed, at a very low cost, additional mailboxes to meet 
 •	Our postman, Bruce, is a real asset and looks out for our interests. We’ll attempt to complete the mailbox project while he is still our primary contact. 
 
 
-Common Area 
+### Common Area 
 
 •	Dock repairs have been undertaken continuously. 
 •	The board continues to review options to replace the decking in the future with polymeric material (longer lifespan). 
 •	This program will be a major investment. We obtained an estimate of a dock replacement project, and it totaled at least $150,000, so the project will not be undertaken until we have saved enough from dues to pay for the project and will avoid a special assessment, if possible.
 •	A notice was sent in the Annual Mailing identifying those slips requiring Maintenance work. Remember, the dock is owned by the Association. The stringers are the responsibility of the slip owners. Among those identified as needing maintenance is one owned by the Association. Dave will attend to the problem.     
 
-Mowing
+### Mowing
 
 •	The lawn mowing contract has been quite successful since 2018. The contractor, Kenny Snow, provides the service at a very reasonable price.
 
-Annual Meeting
+### Annual Meeting
 
 •	As has been the case in past, the Association will provide fried chicken, drinks and paper products at the meeting, scheduled for May 6, 11 AM in the Common Area. Rain location is Harrison house at 7305 Hidden Brook Road. 
 •	We request that additional food be provided in covered dishes by the membership. 
