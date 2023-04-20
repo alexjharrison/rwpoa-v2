@@ -2,5 +2,6 @@
     "editor.formatOnSave": true,
     "tailwindCSS.includeLanguages": {
         "plaintext": "astro",
-    }
+    },
+    "css.lint.unknownAtRules": "ignore"
 }
