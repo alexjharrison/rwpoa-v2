@@ -24,7 +24,7 @@ export default defineConfig({
             label: "Post",
             folder: "src/content/posts",
             create: true,
-            slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+            slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}-{{slug}}",
             fields: postFields,
           },
           {
@@ -32,7 +32,7 @@ export default defineConfig({
             label: "Documents",
             folder: "src/content/documents",
             create: true,
-            slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+            slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}-{{slug}}",
             fields: documentFields,
           },
         ],
