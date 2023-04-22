@@ -40,7 +40,7 @@ export default defineConfig({
             name: "intros",
             label: "Site Introduction",
             folder: "src/content/intros",
-            create: true,
+            create: false,
             slug: "{{slug}}",
             fields: introFields,
           },

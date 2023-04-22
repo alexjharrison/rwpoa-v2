@@ -1,5 +1,10 @@
 ---
+import { getEntryBySlug } from "astro:content";
 import DocumentLinks from "./DocumentLinks.astro";
+
+const intro = await getEntryBySlug("intros", "site-introduction");
+
+const { Content } = await intro.render();
 ---
 
 <div class="text-center">
@@ -11,30 +16,9 @@ import DocumentLinks from "./DocumentLinks.astro";
 
 <div class="sm:flex gap-8 mt-4">
   <div class="flex-1 md:pr-16 my-10">
-    <p>
-      Welcome to the official website of the Rolling Woods Property Owners
-      Association (RWPOA). Our site aims to enhance communication and
-      transparency between the board, committees, and members of our community.
-      Here, you can find the latest news, announcements, and updates on
-      important issues affecting our neighborhood.
-    </p>
-    <p class="mt-6">
-      We also welcome your feedback and suggestions on how we can improve the
-      site or address any concerns you may have. Please feel free to contact
-      Joan Harrison at <a
-        class="text-brand-900 font-semibold"
-        href="mailto:joanhar@gmail.com">joanhar@gmail.com</a
-      > with any questions or comments.
-    </p>
-    <p class="mt-6">
-      Thank you for visiting our site, and we look forward to serving our
-      community together.
-    </p>
-    <address class="mt-6">
-      <p>Rolling Woods Property Owners Association</p>
-      <p>P.O. Box 661</p>
-      <p>Orange, Virginia 22960</p>
-    </address>
+    <div class="prose max-w-full">
+      <Content />
+    </div>
   </div>
   <div class="flex-shrink-0 my-10">
     <DocumentLinks />
