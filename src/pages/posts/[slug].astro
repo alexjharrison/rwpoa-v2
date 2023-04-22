@@ -19,7 +19,10 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 ---
 
-<DefaultLayout>
+<DefaultLayout
+  title={`RWPOA - ${post.data.date.toLocaleDateString()}`}
+  description={`Meeting Notes - ${post.data.title}`}
+>
   <div class="p-4 max-w-screen-xl mx-auto">
     <button
       class="border my-4 border-brand-500 rounded-lg p-2 font-semibold hover:text-slate-200 hover:bg-brand-300 transition-colors"
