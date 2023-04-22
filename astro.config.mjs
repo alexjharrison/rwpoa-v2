@@ -1,8 +1,8 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import NetlifyCMS from "astro-netlify-cms";
-import { postFields } from "./src/content/schemas/posts";
-import { documentFields } from "./src/content/schemas/documents";
+import { postFields } from "./src/content/_schemas/posts";
+import { documentFields } from "./src/content/_schemas/documents";
 
 // https://astro.build/config
 export default defineConfig({

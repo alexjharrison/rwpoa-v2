@@ -8,8 +8,10 @@ type Props = {
   description?: string;
 };
 
-const { title = "RWPOA", description = "Rolling Woods HOA Information" } =
-  Astro.props;
+const {
+  title = "Rolling Woods Property Owners Association (RWPOA)",
+  description = "Stay up-to-date with the latest news and announcements from the RWPOA. Our site facilitates communication among the board and membership of the Rolling Woods Property Owners Association.",
+} = Astro.props;
 ---
 
 <html lang="en">
@@ -20,14 +22,22 @@ const { title = "RWPOA", description = "Rolling Woods HOA Information" } =
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content="https://rwpoa.org/" />
+    <meta
+      property="og:image"
+      content="https://rwpoa.org/images/rwpoa-logo.png"
+    />
   </head>
-  <body>
-    <div>
-      <Header />
-      <main class="content">
-        <slot />
-      </main>
-      <Footer />
-    </div>
+  <body
+    class="flex flex-col min-h-screen bg-brand-700 bg-opacity-10 text-brand-700"
+  >
+    <Header />
+    <main class="conten flex-1">
+      <slot />
+    </main>
+    <Footer />
   </body>
 </html>

@@ -1,10 +1,32 @@
 ---
+import { getCollection } from "astro:content";
+import About from "../components/About.astro";
+import LargePostPreview from "../components/LargePostPreview.astro";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
+
+const posts = await getCollection("posts");
+const latestPost = posts.reduce<(typeof posts)[number]>((newestPost, post) => {
+  if (newestPost.data.date.getTime() < post.data.date.getTime())
+    return newestPost;
+  return post;
+}, posts[0]!);
 ---
 
 <DefaultLayout>
-  <h1>Astro</h1>
-  <a href="/admin">Admin</a>
-  <a href="/posts">Posts</a>
-  <a href="/posts/2023-04-19-test">Post</a>
+  <div
+    class="bg-cover bg-[center_bottom_40%] sm:bg-[url('/images/dock.jpg')] bg-[url('/images/dock-sm.jpg')] h-72 lg:h-96 xl:h-[36rem] max-h-[60vh]"
+  >
+    <h1
+      class="text-center text-slate-900 font-light lg:text-5xl pt-10 xl:pt-16 text-4xl"
+    >
+      Rolling Woods Property Owners Association
+    </h1>
+    <!-- <div class="rounded-lg">
+      <img src="/images/rwpoa-logo.png" alt="logo" />
+    </div> -->
+  </div>
+  <div class="max-screen-xl mx-auto max-w-screen-xl pt-16 px-4">
+    <About />
+    <LargePostPreview post={latestPost} />
+  </div>
 </DefaultLayout>

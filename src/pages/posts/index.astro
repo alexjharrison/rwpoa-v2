@@ -1,9 +1,12 @@
 ---
 import { getCollection } from "astro:content";
+import DefaultLayout from "../../layouts/DefaultLayout.astro";
 
 const posts = await getCollection("posts");
 ---
 
-<ul>
-  {posts.map(post => <li>{post.data.date.toLocaleDateString()}</li>)}
-</ul>
+<DefaultLayout>
+  <ul>
+    {posts.map(post => <li>{post.data.date.toLocaleDateString()}</li>)}
+  </ul>
+</DefaultLayout>

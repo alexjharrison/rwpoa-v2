@@ -1,1 +1,17 @@
-<footer>footer</footer>
+<footer class="bg-slate-400 text-2xl p-5 text-center">
+  <div>Copyright &copy; <span id="year"></span></div>
+  <div class="text-sm pt-2">
+    Created By <a
+      target="_blank"
+      rel="noopener noreferrer"
+      class="text-blue-950"
+      href="https://aharrison.xyz">Alex Harrison</a
+    >
+  </div>
+  <div class="block text-xs"><a href="/admin">Site Editor</a></div>
+</footer>
+
+<script is:inline>
+  const yearSpan = document.getElementById("year");
+  yearSpan.textContent = new Date().getFullYear();
+</script>
