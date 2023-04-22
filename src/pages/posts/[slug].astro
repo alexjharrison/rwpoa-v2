@@ -20,8 +20,17 @@ const { Content } = await post.render();
 ---
 
 <DefaultLayout>
-  <article class="prose max-w-screen-lg">
-    <h2>{slug}</h2>
-    <Content />
-  </article>
+  <div class="p-4 max-w-screen-xl mx-auto">
+    <button
+      class="border my-4 border-brand-500 rounded-lg p-2 font-semibold hover:text-slate-200 hover:bg-brand-300 transition-colors"
+    >
+      <a href="/#posts" class=""> &lt;-- Back</a>
+    </button>
+    <article
+      class="prose prose-strong:text-brand-700 prose-headings:underline prose-headings:text-brand-700 max-w-screen-lg text-brand-300"
+    >
+      <h2>{slug}</h2>
+      <Content />
+    </article>
+  </div>
 </DefaultLayout>

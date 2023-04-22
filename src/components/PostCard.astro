@@ -1,0 +1,44 @@
+---
+import type { CollectionEntry } from "astro:content";
+import Tag from "./Tag.astro";
+
+interface Props {
+  post: CollectionEntry<"posts">;
+}
+
+const { post } = Astro.props;
+const { headings } = await post.render();
+const tags: Record<number, string[]> = {};
+for (const tag of headings) {
+  const { depth, text } = tag;
+  if (!tags[depth]) {
+    tags[depth] = [text];
+  } else {
+    tags[depth]!.push(text);
+  }
+}
+---
+
+<a class="" href={`/posts/${post.slug}`}>
+  <div
+    class="border border-brand-700 p-5 rounded-lg hover:bg-brand-900 hover:bg-opacity-80 hover:text-slate-200 transition-colors md:flex"
+  >
+    <div class="ml-0 flex-shrink-0 pr-8">
+      <h3 class="font-semibold">{post.data.title}</h3>
+      <p class="mb-3">{post.data.date.toLocaleDateString()}</p>
+      <p class="text-xs">Posted by {post.data.author}</p>
+    </div>
+    <div class="flex-1">
+      <p class="font-semibold underline">Topics</p>
+      {
+        Object.entries(tags).map(([depth, topics]) => (
+          <div>
+            {topics.map(topic => (
+              <Tag level={depth} text={topic} />
+            ))}
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</a>

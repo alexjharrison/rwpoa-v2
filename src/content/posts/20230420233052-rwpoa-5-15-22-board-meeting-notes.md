@@ -13,12 +13,12 @@ President Loving called the meeting to order at 11:05. Attendance was less than 
 
 ## Board Elections
 
-• Jim Herdman and Pete Barry have resigned from the Board. The Board thanks them for their service.
-• Cathy Hillyard was elected Vice President
-• Joan Harrison was elected Treasurer
-• Doug Harrison was elected Secretary
-• Millie Miller was elected to the Board
-• David Loving (President), Terry Thornton, and Kyle Bennett continue in their position on the Board
+- Jim Herdman and Pete Barry have resigned from the Board. The Board thanks them for their service.
+- Cathy Hillyard was elected Vice President
+- Joan Harrison was elected Treasurer
+- Doug Harrison was elected Secretary
+- Millie Miller was elected to the Board
+- David Loving (President), Terry Thornton, and Kyle Bennett continue in their position on the Board
 
 There are currently 7 Board members. The maximum is nine. We continue to solicit volunteers for the Board.
 
@@ -51,8 +51,7 @@ $3000 is being kept in reserve for road repair. 3 Bids were obtained on road rep
 
 1. AIRB&B: The law in Virginia is simple. An AIRB&B is a residential home and meets our current covenants.
 2. Fees for AirBnB for short rentals and common area use will be considered. It’s also important rental providers carry all liabilities, not the RWPOA. It was also suggested that rental providers also provide lists of users and cars to the RWPOA. No decision yet. Andy Feinstein pointed out that hedge are funds looking for neighborhoods in which to invest based on future rental income potential. Possibility of modifications to the Covenants will be considered.
-3. The definition of “weekly” in the covenants is unclear.  
-
+3. The definition of “weekly” in the covenants is unclear.
 
 ### Mailbox Area
 
@@ -72,9 +71,9 @@ Purchase and installation of 3 cameras, 1 at the gate and 2 at the docks has bee
 
 ### Drainage
 
-• Drainage systems need to be surveyed for damage. It was questioned whether lot owners or VDOT are responsible.  
-• The VDOT Right of Way width was questioned.
-• Complaint filed for damage to properties during storm cleanup by FEMA contractor.
+- Drainage systems need to be surveyed for damage. It was questioned whether lot owners or VDOT are responsible.
+- The VDOT Right of Way width was questioned.
+- Complaint filed for damage to properties during storm cleanup by FEMA contractor.
 
 Port-a-potty
 Please do not leave dog droppings or bags anywhere in the common area (Including the port-a-potty.)

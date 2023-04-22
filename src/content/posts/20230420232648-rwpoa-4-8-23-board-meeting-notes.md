@@ -66,38 +66,21 @@ The purpose of the meeting was to prepare for the May 6 Annual Membership Meetin
 
 #### Attachment I
 
-Treasurers Report as of April 1, 2023
-
-General Fund Balance Checking Account as of 3/27/23 $5,243.68
-
-Plus Total Credits $11,970.00
-
-Total Expenditures $40,192.44
-
-($20000 CD $20000 money market)
-
-General Fund Balance as of April 1, 2023 $5,243.68
-
-Money market fund $20,000.00
-
-Reserve fund (CD) $20,000.00
-
-Current Fund Status from January 9th through April 1, 2023
-
-General Fund Balance as of April 1, 2023 $5,243.68
-
-Money Market $20,000.00
-
-Reserve fund (CD) $20,000.00
-
-Outstanding Dues - Prior Year $5,225.00
-
-Outstanding Dues - Current Year $7,450.00
-
-Current Total Funds $25,243.68
-
-Total Anticipated Funds $37,918.68
-
-Total members late on dues 9
-
+Treasurers Report as of April 1, 2023 <br />
+General Fund Balance Checking Account as of 3/27/23 $5,243.68 <br />
+Plus Total Credits $11,970.00 <br />
+Total Expenditures $40,192.44 <br />
+($20000 CD $20000 money market) <br />
+General Fund Balance as of April 1, 2023 $5,243.68 <br />
+Money market fund $20,000.00 <br />
+Reserve fund (CD) $20,000.00 <br />
+Current Fund Status from January 9th through April 1, 2023 <br />
+General Fund Balance as of April 1, 2023 $5,243.68 <br />
+Money Market $20,000.00 <br />
+Reserve fund (CD) $20,000.00 <br />
+Outstanding Dues - Prior Year $5,225.00 <br />
+Outstanding Dues - Current Year $7,450.00 <br />
+Current Total Funds $25,243.68 <br />
+Total Anticipated Funds $37,918.68 <br />
+Total members late on dues 9 <br />
 Total members not paid this year 21

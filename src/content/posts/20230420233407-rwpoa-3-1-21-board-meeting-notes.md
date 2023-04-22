@@ -27,7 +27,7 @@ President, RWPOA
 
 WRITTEN CONSENT TO (RATIFICATION OF) AMENDMENT TO DECLARATION
 
-I (We)signature/s******\_\_****** owner/s of lot/s****\_\_\_**** date ****\_\_\_\_****in Rolling Woods Subdivision, Spotsylvania County, Virginia and I(We) hereby consent to amend (make changes to) the recorded Deed of Dedication, Restriction and Easement for Rolling Woods Subdivision, dated March 23, 1987, as follows:
+I (We)signature/s**\*\***\_\_**\*\*** owner/s of lot/s\***\*\_\_\_\*\*** date \***\*\_\_\_\_\*\***in Rolling Woods Subdivision, Spotsylvania County, Virginia and I(We) hereby consent to amend (make changes to) the recorded Deed of Dedication, Restriction and Easement for Rolling Woods Subdivision, dated March 23, 1987, as follows:
 
 ---
 
@@ -57,13 +57,14 @@ complement (s) the dwelling house. This provision shall not be construed to defi
 containers that can moved manually by one or two persons as utility sheds. Up to two metal carports
 may be located upon any lot, provided that they complement the dwelling house, and that they comply with
 Spotsylvania County building and/or zoning ordinances.]
+
 **Vote Yes or No**
 
 ---
 
 ### 2. FENCES AND FIREWOOD
 
-Original Provision as stated:   
+Original Provision as stated:  
  [Except as provided hereinafter no fences shall be permitted on any residential building lots. There shall be allowed a
 split rail fence of no more than three (3) rails. Where a private swimming pool is constructed on any lot, a privacy fence,
 not to exceed five (5) feet in height, around the perimeter of the pool shall be permitted, unless a greater height is required
@@ -80,7 +81,7 @@ or county regulation. Split firewood must be stacked.]
 
 ### 3. LAND USE
 
-Original Provision as stated:   
+Original Provision as stated:  
  [No lot within the subdivision shall be used except for residential purposes. No trade or business of any kind or character
 nor the practice of any profession, nor any building structure designed or intended for any purpose connected with any trade,
 business, or profession, shall be permitted upon any lot. Nothing herein shall be construed to prevent any lot owner from renting or leasing any house constructed upon the lot either on a weekly, monthly, or yearly basis.
@@ -111,12 +112,12 @@ debris, and litter.]
 
 ### 8. NUISANCES, JUNK VEHICLES, ETC.
 
-Original provision as stated:   
+Original provision as stated:  
  [No noxious or offensive activity shall be carried on upon any lot, nor shall anything be done therein which may be or be-
 come an annoyance or nuisance to the neighborhood. No trash or garbage shall be permitted to be burned on any lot. This
 shall not be construed to prevent the DECLARANT or owner of any lot from burning brush on said lot where such burning is
 used as a means of maintaining the lot free of weeds and brush or cleaning the Lot prior to construction.
- No trucks or heavy equipment. . .shall not apply to any properly licensed and operable pickup truck or 4-wheel
+No trucks or heavy equipment. . .shall not apply to any properly licensed and operable pickup truck or 4-wheel
 passenger vehicle of any lot owner. No . . .unlicensed or inoperable. . . No junk piles or tires. . .on any lot.]
 
 Proposed provision as stated;
@@ -129,13 +130,13 @@ passenger vehicle of any lot owner. No . . . unlicensed or inoperable . . . No j
 and/or security cameras designed to protect individual lots shall be positioned in a manner that serves to illuminate
 and/or record and monitor only said lot.]
 
-**Vote Yes/No**
+**Vote Yes or No**
 
 ---
 
 ### 10. LIVESTOCK AND POULTRY
 
-Original Provision as stated:   
+Original Provision as stated:  
  [No swine, cows, horses, goats, chickens, roosters, turkeys, geese, ducks, nor any other type of poultry or fowl, and no commercial livestock or poultry project shall be maintained within said subdivision, nor shall any dog pens, kennels or other
 such projects involving the rearing, handling or care and maintenance of animals in numbers be conducted or maintained
 within the subdivision.  
@@ -151,18 +152,18 @@ other such projects involving the rearing, handling or care and maintenance of a
 maintained within this subdivision.
 Owners shall be permitted to bring domestic pets such as dogs cats, rabbits, hamsters, fish and reptiles etc. or birds
 such as parakeets, that are solely pets, provided, however that said pets shall not be defined as exotic animals to the lots.,
- Notwithstanding the restrictions of paragraph 1 above, each lot owner shall be entitled to construct a dog house and
+Notwithstanding the restrictions of paragraph 1 above, each lot owner shall be entitled to construct a dog house and
 enclosure for no more than 4 dogs, one rabbit hutch for not more than 2 rabbits, and one chicken coop for the housing of
 no more than 8 hens. Hens shall not be free roaming, nor shall roosters be permitted on any lot. No animal shall be
 allowed to remain within the subdivision, except during such time or times as the owner of the lot is present, or the pets are otherwise provided for.]
 
-**VOTE YES/NO**
+**Vote Yes or No**
 
 ---
 
 ### 11. SIGNS
 
-Original Provision as stated   
+Original Provision as stated  
  [No signs of any kind shall be displayed to the public view on any lot except one sign, meeting the Spotsylvania County
 regulations for such signs, advertising the property for sale. Provided, however, that on a waterfront lot, if permitted by
 the Spotsylvania County regulations then in effect, two such signs advertising the property for sale shall be allowed at any

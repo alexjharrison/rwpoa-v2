@@ -1,0 +1,20 @@
+---
+import { getCollection } from "astro:content";
+import PostCard from "./PostCard.astro";
+
+const posts = (await getCollection("posts")).sort(
+  (postA, postB) => postB.data.date.getTime() - postA.data.date.getTime()
+);
+---
+
+<div id="posts" class="mb-16">
+  <h2 class="text-3xl mb-10">All Meeting Notes</h2>
+
+  {
+    posts.map(post => (
+      <div class="mt-3">
+        <PostCard post={post} />
+      </div>
+    ))
+  }
+</div>

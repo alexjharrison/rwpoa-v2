@@ -8,9 +8,7 @@ import { introFields } from "./src/content/_schemas/intros";
 // https://astro.build/config
 export default defineConfig({
   integrations: [
-    tailwind({
-      config: { applyBaseStyles: false },
-    }),
+    tailwind(),
     NetlifyCMS({
       config: {
         backend: {
