@@ -36,9 +36,10 @@ The purpose of the meeting was to prepare for the May 6 Annual Membership Meetin
 
 * According to our postman, we are now out of available boxes.
 * On Nov 18, Dave, Doug, and Joan met with Orange Postmaster, David Hogsten, and agreed to the following to expand the number of mailboxes available at the community entrance.
-* We would provide and install additional boxes to be transferred to USPS ownership to meet future needs of the community.
-* Doug provided a complete list of mailbox addresses to be used on November 19.
-* To simplify management and delivery, each lot in Rolling Woods (excluding those on Days Bridge Road which will have direct delivery) would be assigned a box to be placed in order of addresses to assist future mail carriers in accurate delivery of the mail.
+
+  * We would provide and install additional boxes to be transferred to USPS ownership to meet future needs of the community.
+  * Doug provided a complete list of mailbox addresses to be used on November 19.
+  * To simplify management and delivery, each lot in Rolling Woods (excluding those on Days Bridge Road which will have direct delivery) would be assigned a box to be placed in order of addresses to assist future mail carriers in accurate delivery of the mail.
 * Dave acquired and installed, at a very low cost, additional mailboxes to meet our current and future needs.
 * A new postmaster was assigned. Local postmasters have significant authority and the new postmaster decided not to progress our plan. The USPS will continue to own and manage the existing boxes. The new boxes are our responsibility. Delivery slots will not be changed.
 * The USPS will continue to provide new keys to the old boxes at a cost.
