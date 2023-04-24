@@ -22,7 +22,7 @@ export default defineConfig({
             name: "post",
             label: "Post",
             folder: "src/content/posts",
-            create: true,
+            create: false,
             slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}-{{slug}}",
             fields: postFields,
           },
