@@ -19,7 +19,7 @@ const { Content } = await post.render();
       <article
         class="prose prose-strong:text-brand-700 prose-headings:underline prose-headings:text-brand-700 max-w-screen-lg text-brand-300"
       >
-        <h2>{post.slug}</h2>
+        <h2>{post.data.title}</h2>
         <Content />
       </article>
     </div>
