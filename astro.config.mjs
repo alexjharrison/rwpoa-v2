@@ -3,6 +3,7 @@ import tailwind from "@astrojs/tailwind";
 import NetlifyCMS from "astro-netlify-cms";
 import { postFields } from "./src/content/_schemas/posts";
 import { documentFields } from "./src/content/_schemas/documents";
+import { announcementFields } from "./src/content/_schemas/announcements";
 import { introFields } from "./src/content/_schemas/intros";
 
 // https://astro.build/config
@@ -41,6 +42,14 @@ export default defineConfig({
             create: false,
             slug: "{{slug}}",
             fields: introFields,
+          },
+          {
+            name: "announcements",
+            label: "Announcements",
+            folder: "src/content/announcements",
+            create: true,
+            slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}-{{slug}}",
+            fields: announcementFields,
           },
         ],
       },

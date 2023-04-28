@@ -1,0 +1,45 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+import DefaultLayout from "../../layouts/DefaultLayout.astro";
+
+interface Props {
+  announcement: CollectionEntry<"announcements">;
+}
+
+export async function getStaticPaths() {
+  const announcements = await getCollection("announcements");
+  return announcements.map(announcement => ({
+    params: { slug: announcement.slug },
+    props: { announcement },
+  }));
+}
+
+const { announcement } = Astro.props;
+const { Content } = await announcement.render();
+---
+
+<DefaultLayout
+  title={`RWPOA - ${announcement.data.title}`}
+  description={`Announcement - ${announcement.data.title}`}
+>
+  <div class="p-4 max-w-screen-xl mx-auto">
+    <button
+      class="border my-4 border-brand-500 rounded-lg p-2 font-semibold hover:text-slate-200 hover:bg-brand-300 transition-colors"
+    >
+      <a href="/#announcements" class=""> &lt;-- Back</a>
+    </button>
+    <div class="text-xl mb-4">
+      <p class="underline font-semibold text-2xl mb-2">Notice</p>
+      <p class="text-2xl">{announcement.data.title}</p>
+      <p class="text-sm">
+        Posted by {announcement.data.author} -
+        {announcement.data.date.toLocaleDateString()}
+      </p>
+    </div>
+    <article
+      class="prose prose-strong:text-brand-700 prose-headings:underline prose-headings:text-brand-700 max-w-screen-lg text-brand-300"
+    >
+      <Content />
+    </article>
+  </div>
+</DefaultLayout>

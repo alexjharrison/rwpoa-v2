@@ -1,0 +1,32 @@
+---
+import { getCollection } from "astro:content";
+
+const announcements = (await getCollection("announcements")).sort(
+  (a, b) => b.data.date.getDate() - a.data.date.getDate()
+);
+---
+
+<div class="border-b border-brand-500 border-opacity-50 mt-4 my-4"></div>
+<div id="announcements" class="py-7">
+  <h2 class="text-3xl mb-4">Announcements</h2>
+  <ul class="text-xl font-bold">
+    {
+      announcements.map(announcement => (
+        <li class="bg-brand-300 my-5 rounded-lg">
+          <a class="p-2 block" href={"/announcements/" + announcement.slug}>
+            <span class=" text-slate-200 leading-loose ">
+              <span class="font-normal">
+                {announcement.data.date.toLocaleDateString()}
+              </span>
+              {" - "}
+              {announcement.data.title}
+            </span>
+            <span class="text-brand-700 text-base ml-2">
+              Click for more info
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</div>
