@@ -1,5 +1,5 @@
 ---
-title: LACA Announcements
+title: LACA - Lake Cleanup
 author: Doug Harrison
 date: 2023-04-08T23:24:32.400Z
 ---
