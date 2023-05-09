@@ -1,7 +1,7 @@
 ---
-title: RWPOA 4-8-23 Board Meeting Notes
+title: RWPOA 5-6-23 Annual Meeting Notes
 author: Doug Harrison
-date: 2023-04-08T23:24:32.400Z
+date: 2023-05-06T23:24:32.400Z
 ---
 **RWPOA 5-6-23 Annual Meeting Notes**
 
