@@ -5,39 +5,17 @@ date: 2023-05-06T23:24:32.400Z
 ---
 **RWPOA 5-6-23 Annual Meeting Notes**
 
-                                         
-
      A Rolling Woods Property Owners Association Board Meeting was held on Saturday May 6, 2023 at 11:00 AM the Common Area. Attendees are listed in Attachment 1.
 
- 
+ **Board Membership**     
 
-     **Board Membership**
+We currently have 7 board members and requested two volunteers to complete the board. **Chris White** and **Bob Fellows** stepped forward to fill the open positions on the Board. Both were approved by acclimation and are now members of the Board.President **David Loving** was nominated to continue to serve as President of the Association. The nomination was seconded and approved without opposition.
 
- 
+**Terry Thornton** and **Kyle Bennet** were nominated and approved to continue in the roles as Board Members.
 
-     We currently have 7 board members and requested two volunteers to complete the board. **Chris White** and **Bob Fellows** stepped forward to fill the open positions on the Board. Both were approved by acclimation and are now members of the Board.
-
- 
-
-     President **David Loving** was nominated to continue to serve as President of the Association. The nomination was seconded and approved without opposition.
-
- 
-
-     **Terry Thornton** and **Kyle Bennet** were nominated and approved to continue in the roles as Board Members.
-
- 
-
-     **Cathy Hillyard** (Vice President), **Joan Harrison** (Treasurer), **Doug Harrison** (Secretary), and **Millie Miller** (Board Member) will continue in their current roles.
-
- 
-
-     The Board of the Rolling Woods Property Owners Association is now fully populated.  
-
-                                              
+**Cathy Hillyard** (Vice President), **Joan Harrison** (Treasurer), **Doug Harrison** (Secretary), and **Millie Miller** (Board Member) will continue in their current roles. The Board of the Rolling Woods Property Owners Association is now fully populated.  
 
 **Covenants**
-
-
 
 A number of years ago, the Board submitted a proposed update to the covenants with the intent to remove unnecessary restrictions (which are virtually unenforceable anyway).
 
@@ -47,11 +25,7 @@ Only active members (those who are up to date on dues payments) are eligible to 
 
 Dave will meet with our lawyer to confirm that we have followed the Covenant revision regulations laid out in the covenants and in county statutes.
 
- 
-
 **Dues**
-
-
 
 * Joan provided a Treasurer’s Report as shown in Attachment II. Since interest rates have finally risen, we have invested in interest bearing Certificates of Deposit and bank accounts to maximize return as shown in the report.
 * Emails have been sent to all delinquent members requesting that dues be paid in full. Our dues are far less than comparable HOA’s in the area, primarily because we rely on volunteers to maintain the Association. As provided for in the by-laws, a $25 late fee is assessed for payment received after the Annual Meeting.  
@@ -60,26 +34,14 @@ Dave will meet with our lawyer to confirm that we have followed the Covenant rev
 * **In order to build upon available funds, Dave has proposed a plan to increase dues by $50 to $250/year for 2 years. There will be a review in two years. This increase was approved by the membership.**     
 * We plan to have $40,000 in an ongoing reserve by the end of this year. With the increase in dues, we plan to save at least $10,000-$15,000 per year.
 
- 
-
-
-
 ***Short Term Rentals***
-
- 
 
 * Neighborhood facilities are being used by short term renters. Special means of covering RWPOA costs were discussed. The possibility that an annual fee be charged for AirBnb or Vrbo sites has Board support.
 * The implementation of a rental fee was tabled until next year. There are a number of issues that need to be resolved, e.g. the meaning of “weekly” rentals, limits on the amounts that could legally be collected, limits on the number of guests using a rental property (septic system), etc. Liability management needs to be clarified.
 * The membership agreed that rentals should at least be registered with the RWPOA. Contact info for the owner and the renter will be solicited. Doug was assigned the task of putting together a website option for registration.
 * Meetings with legal staff will be scheduled to follow up.
 
- 
-
-
-
 ***Mailboxes***
-
- 
 
 * According to our postman, we are now out of available boxes.
 * On Nov 18, Dave, Doug, and Joan met with Orange Postmaster, David Hogsten, and agreed to the following to expand the number of mailboxes available at the community entrance.
@@ -88,38 +50,21 @@ Dave will meet with our lawyer to confirm that we have followed the Covenant rev
   * Doug provided a complete list of mailbox addresses to be used on November 19.
   * To simplify management and delivery, each lot in Rolling Woods (excluding those on Days Bridge Road which will have direct delivery) would be assigned a box to be placed in order of addresses to assist future mail carriers in accurate delivery of the mail.
   * Dave acquired and installed, at a very low cost, additional mailboxes to meet our current and future needs.
-
- 
-
 * A new postmaster was assigned. Local postmasters have significant authority and the new postmaster decided not to progress our plan. The USPS will continue to own and manage the existing boxes. The new boxes are our responsibility. Delivery slots will not be changed. Dave is now our neighborhood postmaster.
 * The USPS will continue to provide new keys to the old boxes at a cost.
 * The RWPOA will own and manage the new boxes. Two keys will be provided to members at a cost of $100.
 * The new boxes extend slightly beyond the roof currently in place. There is also storm damage that needs repair. Dave will design and execute a project to expand and repair the roof. Cost is estimated at $2000.  
 
- 
-
- 
-
 ***Common Area***
-
- 
 
 * Dock repairs have been undertaken continuously.
 * The Board continues to review options to replace the decking in the future.
 * This program will be a major investment. We obtained an estimate of a dock replacement project, and it totaled at least $150,000 (current cost), so the project will not be undertaken until we have saved enough from dues to pay for the project and will avoid a special assessment, if possible.
 * A notice was sent in the Annual Mailing identifying those slips requiring maintenance work. Remember, the dock is owned by the Association. The stringers are the responsibility of the slip owners. Among those identified as needing maintenance is one owned by the Association. Dave will attend to the problem.     
 
- 
-
 ***Mowing***
 
-
-
 * The lawn mowing contract has been quite successful since 2018. The contractor, Kenny Snow, provides the service at a very reasonable price.
-
- 
-
- 
 
 ***Cameras***
 
@@ -128,19 +73,13 @@ Dave will meet with our lawyer to confirm that we have followed the Covenant rev
 * Since the common area cameras never provided a complete picture of the docks, Joan proposed that individual boat owners be responsible for any cameras on their own boats.
 * Rex will provide a camera to be placed at the entrance to the common area.
 
- 
-
 President David Loving adjourned the meeting at 12:30
 
 ## Attachment I
 
 ### Attendees
 
- 
-
 **Name                                                       Lots**
-
- 
 
 Joan Harrison                                                   56,58
 
@@ -197,10 +136,6 @@ Gary Hillyard                                  
 Leann Regan                                                    85
 
 Ed Regan                                                          85
-
-
-
-
 
 |                                                |                           |                                  |           |            |
 | ---------------------------------------------- | ------------------------- | -------------------------------- | --------- | ---------- |
