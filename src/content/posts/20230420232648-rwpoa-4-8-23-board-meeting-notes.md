@@ -114,10 +114,10 @@ date: 2024-03-23T23:24:32.400Z
    Name="footnote text"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="true"
+   UnhideWhenUsed="true" Name="header"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="true"
+   UnhideWhenUsed="true" Name="footer"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="index heading"/>
   <w:LsdException Locked="false" Priority="35" SemiHidden="true"
@@ -134,8 +134,8 @@ date: 2024-03-23T23:24:32.400Z
    Name="annotation reference"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="true"
+   UnhideWhenUsed="true" Name="page number"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="endnote reference"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
@@ -651,6 +651,8 @@ date: 2024-03-23T23:24:32.400Z
 
 <!--StartFragment-->
 
+
+
 **RWPOA 3-23-24 Board Meeting Notes**
 
                                          
@@ -661,11 +663,7 @@ date: 2024-03-23T23:24:32.400Z
 
      **Board Membership**
 
- 
-
      We currently have a full complement of 9 board members.
-
- 
 
      4 positions require elections at the Annual Meeting.  Cathy Hillyard (Vice President) Doug Harrison (Secretary), and Joan Harrison (Treasurer) will run for re-election. Millie Miller will not be running for re-election. At least one position requires a new nominee.
 
@@ -677,15 +675,9 @@ date: 2024-03-23T23:24:32.400Z
 
 Joan provided a Treasurer’s Report as shown in Attachment II.
 
- 
-
 Of our 96 lots, 29 have not yet paid dues for 2024.The membership is reminded that if dues are  not paid by the Annual Meeting (May 4), they are subject to an additional $25 late fee.
 
- 
-
 3 members are delinquent by more than 3 years. Letters will be sent to delinquents and the association will file liens against those properties to try to collect past dues. That is the only legal path to collection of past dues.
-
- 
 
 We have $40,000 in the bank for dock maintenance.
 
@@ -699,35 +691,19 @@ We have $40,000 in the bank for dock maintenance.
 
 The Docks will be repaired as necessary. The value of slips in the common  area varies between $2400 and $5000 depending on width and location.
 
- 
-
 The Association has two unassigned slips. It was agreed that the extra slips would be leased out for $300/yr in view of the $500 cost for repairs each time a stringer needs repair.
-
- 
 
 The Board approved the installation of a graveled area in the common area for picnic tables.
 
- 
-
 Picnic tables will cost $500-1000 each. Only 2 will be replaced.
-
- 
 
 The road replacement 2 years ago has been very successful. Drainage system works well. Cathy requested that a cleanup team be formed to remove brush from the sides of the road.
 
- 
-
 Joan will check on Porta-potty maintenance. It’s scheduled to re-open on April 1
 
- 
-
-Members have complained about use of the common area at night. The Board did not approve a proposal to impose short hours on use of the common area because many members use it for night fishing. Motion detectors (solar powered) will be installed in the common area.  
-
- 
+ Members have complained about use of the common area at night. The Board did not approve a proposal to impose short hours on use of the common area because many members use it for night fishing. Motion detectors (solar powered) will be installed in the common area.  
 
 To improve security, it was agreed that the current keyed lock will be replaced with a combination lock, the combination of which will be changed at least annually. Combination will be revealed in e-mails. All members are expected to provide email addresses. The combination should not be shared by members to non-members. Members not in good standing (e.g. non-payment of dues) are not allowed to use the common area (trespassing). 
-
-
 
 Only registered boats are allowed to be stored in the common area.             
 
@@ -739,11 +715,7 @@ Only registered boats are allowed to be stored in the common area.       �
 
 Junked construction equipment will be removed from lots (Bull Dozer and Trailer). Dave to send letter to follow up.
 
- 
-
 Front sign/garden – need volunteer 2 days/year. Dave will follow up.
-
- 
 
 Neighborhood Watch sign will be repaired.
 
@@ -755,76 +727,6 @@ Neighborhood Watch sign will be repaired.
 
 Dave will purchase chicken. Joan to supply utensils and drinks.
 
- 
-
 Don’t forget – Annual meeting – May 4, 11 AM Common Area.
-
-
-
-**Attachment I**
-
-**Attendees**
-
-
-
-David Loving – President
-
-Cathy Hillyard - Vice President
-
-Joan Harrison – Treasurer
-
-Doug Harrison – Secretary
-
-Terry Thornton – Member
-
-Kyle Bennett – Member
-
-Dave Fowler – Member
-
-Chris White – Member
-
-
-
-**Attachment II**
-
-**Treasurer’s Report**
-
- 
-
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
 
 <!--EndFragment-->
