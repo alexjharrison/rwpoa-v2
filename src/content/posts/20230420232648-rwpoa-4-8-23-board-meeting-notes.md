@@ -1,7 +1,7 @@
 ---
-title: 5-4-24 Annual Meeting
+title: 10-12-24 Board Meeting
 author: Doug Harrison
-date: 2024-05-11T17:32:52.028Z
+date: 2024-10-12T17:32:52.028Z
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
@@ -215,8 +215,8 @@ date: 2024-05-11T17:32:52.028Z
    Name="Body Text Indent 3"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Hyperlink"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="FollowedHyperlink"/>
   <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
@@ -646,15 +646,15 @@ date: 2024-05-11T17:32:52.028Z
 
 <!--StartFragment-->
 
-**RWPOA 5-4-24 Annual Meeting Notes**
+**RWPOA 10-12-24 Board Meeting Notes**
 
                                           
 
-     A Rolling Woods Property Owners Association Membership Meeting was held Saturday May 4, 2024 at 11:00 AM at the Thornton House 7309 Hidden Brook Rd
+     A Rolling Woods Property Owners Association Board Meeting was held Saturday October 10, 2024 10:00 AM at the Common Area
 
  
 
-     Dave called the meeting to order at 11:15 am. Attendance is shown on Attachment 1. With the proxies received in the mail, a quorum was present.
+     Dave called the meeting to order at 10 am. Attendance is shown on Attachment 1.
 
  
 
@@ -662,11 +662,11 @@ date: 2024-05-11T17:32:52.028Z
 
  
 
-     We currently have a full complement of 9 board members. Millie Miller is not running for re-election. Dan Vaden (Lot 1) has volunteered to run for the vacant board seat. He was approved unanimously by the membership.
+     We currently have a full complement of 9 board members. Doug and Joan are on the Board until 2026 but have requested volunteers to replace them after 18 and 20 years respectively.
 
  
 
-     Cathy Hillyard (Vice President), Doug Harrison (Secretary), and Joan Harrison (Treasurer) were unanimously re-elected to their current positions by the membership.
+     4 members will be up for re-election in May (Abbot, Loving, Thornton, White)
 
  
 
@@ -674,35 +674,37 @@ date: 2024-05-11T17:32:52.028Z
 
 
 
-     Joan’s Treasurer’s report is shown as Attachment 2. The Association will have about $50,000 in free cash at year end. $50k is held in interest bearing instruments.
-
-  
-
-      Expenses for RWPOA for the year will be $9716.69.
-
-
-
-Delinquent dues actions taken by the Board have been very successful. At present, there is only one long term delinquency without a repayment plan. Dave will continue to try to close the loop.
+     Joan’s Treasurer’s report is shown as Attachment 2. The Association will have about $56,000 in free cash at year end. $56k is held in interest bearing instruments. $45k in CD. Remaining cash is in money market.
 
  
 
-Dock repairs average $700 to $1000/yr.
+     Dave wants to have multiple signature requests to be instituted for long term savings (not used for regular expenses) Joan will follow up
 
  
 
-It is the responsibility of the Board to maintain our property for the benefit of the members. Under current circumstances, a significant assessment would be required if our primary assets, common area and mailbox, needed major repair or replacement. This could cause hardship for many.
+      4 lot owners have not paid dues. Dave will follow up.    
 
  
 
-It was decided that a Tiger Team of Association members would be formed to assess options for meeting potential future financial requirements. The team would obtain a dock inspection report and cost estimates for replacement options. They would be charged with development of a recommendation for future funding. Chris White volunteered to chair the Tiger Team. Shawn Haynes, Bob Fellows, and Andy Feinstein volunteered for the Team. A cross section of dock users and non-users would be preferred.
+Dock repairs coverage – A Tiger Team was formed in May to provide recommendations on long term financing of docks. The Tiger Team will review the Windemere dock replacement. A report is expected in May. It does not appear that a change in dues is now necessary. This will be discussed at the May meeting.  
 
  
 
-RWPOA dues are currently lower than other neighborhoods on Lake Anna. Kyle made a request that a 2-tiered dues system be considered in recognition that not all lot owners have slips.  
+Joan and Doug offered access to their docks to have the Tiger Team review the repair methodology being used on their docks. The design does not require full replacement to meet all safety standards.
 
  
 
-More info follows:
+Two requests for pickle ball courts were noted. Potential noise and cost are issues. (Pickle ball is available in Unionville). Cost estimates are needed before the idea can be progressed.
+
+     
+
+2-tiered dues system was proposed by Kyle. Dave spoke with the lawyer about   the proposal and legal difficulties were highlighted.
+
+ 
+
+A $1k fee for maintenance and upkeep of RWPOA facilities at closing to supplement revenues was proposed. According to legal, we cannot make either the new or old owner pay the fee. It must be the subject of negotiation between new and old owners like the POA package. This will be discussed at the May meeting.
+
+ 
 
  
 
@@ -710,15 +712,19 @@ More info follows:
 
 
 
-The useful life of the current docks was questioned. Dave received a cost estimate of $400k for dock replacement with modern materials a couple of years ago. There is much concern that a large assessment ($2000 to $3000 per lot) would be required to cover a major project like that. The alternative to a large assessment is a major increase in dues. This issue will be taken up by the Tiger team noted above.
+Dock repair program targeting individual problems has been successful and will   continue.
 
  
 
-The Docks are being repaired as necessary. We’re currently spending about $700 to $1000/yr on dock upkeep. The docks are now in good shape. Maintenance for the season will take place in the next couple of weeks.
+Annual mailing to include notifications of slip repairs needs
+
+
+
+The road to the common area was very well repaired a couple of years ago and no improvements are needed.
 
  
 
-The value of slips (owned by members) in the common area varies between $2400 and $5000 depending on width and location of the slip.
+The value of slips (owned by members) in the common area varies between $2400 and $5000 depending on width and location of the slip. The dockmap listing ownership on the website has been updated. Please let Doug ([haphar@gmail.com](mailto:hapahr@gmail.com)) know if there are any errors. (RWPOA.org)
 
  
 
@@ -726,63 +732,49 @@ Slip Leasing – The Association’s two commonly owned slips have been leased f
 
  
 
-Gravel installation in the common area. Tabled for the time being.
+Security and new lock combination plans: A lock has been purchased ($38). It was decided not to install the combination lock because the keys provide greater security.
 
  
 
-We do not have to replace the picnic tables.  Cathy power washed and Dave replaced some boards. Staining will follow.   
+A solar powered light and camera installed at gate
 
  
 
-Cleanup team Gary and Cathy.  The Association appreciates all the work that they have done.
+ ** Lawn Mowing**
 
  
 
-It was agreed that night access to the docks would be continued to allow for night fishing.
+$750 per month is the current lawn mowing charge. Kenny continues to do a good job.
 
  
 
-Security and new lock combination plans: A lock has been purchased ($38). It will be installed at the end of this season. The combination will be distributed by email.
+**Buoys**
+
+     
+
+Governor’s Point responsibility for the third buoy seems to have been forgotten. Replacement is necessary as it was crushed by a boat. The Board will contact Governor’s Point Board to remind them.      
 
  
 
-A light will be installed at the gate (Solar powered) – for lock use and surveillance. 
-
- 
-
- 
+  
 
  **   New Business**
 
- 
+                                   
 
-Junked construction equipment. Dave will issue enforcement letters and then call the county if necessary.
-
- 
-
-Front sign/garden – need volunteer 2 days/year. Pete and Cathy volunteered – Dave will repaint signs.
+Garbage – Dave will provide info to new owners. No one on the Board uses any commercial trash service.                        
 
  
 
-A kayak storge facility and playset were not approved due to security and liability concerns.
+Noise complaints - Dan could write tickets for unregistered vehicles stored on our roads.  
+
+          
+
+Boat users ignore speed restrictions in no wake zone.
 
  
 
-Pete’s volunteer helper list will be updated (Dave/Pete)
-
- 
-
-Website – Doug will provide backup of all data stored on the website.
-
- 
-
-Short term rentals – Jake Lane is a good contact. Spotsylvania County should consider Louisa County type regulations.
-
- 
-
-A question came up regarding the need for a 911 Call Location Identifier for our docks. We do in fact have a yellow placard on the end of the south dock (SU025).
-
- 
+A virtual meeting will be held in Jan to approve the Annual Mailing (invoices).
 
 
 
