@@ -1,7 +1,7 @@
 ---
-title: 9-6-25 Board Meeting
+title: 3-14-26 Board Meeting
 author: Doug Harrison
-date: 2025-09-06T17:32:00.000Z
+date: 2026-03-14T17:32:00.000Z
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
@@ -13,7 +13,7 @@ date: 2025-09-06T17:32:00.000Z
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
+  <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
   <w:ValidateAgainstSchemas/>
@@ -651,41 +651,59 @@ date: 2025-09-06T17:32:00.000Z
 
 <!--StartFragment-->
 
+
+
 **RWPOA Board Meeting Notes**
 
-**September 6, 2025**
+**March 14, 2026**
 
  
 
-An RWPOA Board meeting was held on Saturday, September 6, 2025 in the Common Area at 10:00 AM. In attendance were:
+An RWPOA Board meeting was held on Saturday, March 14, 2026 at 10:00 AM at Harrison House (7305 Hidden Brook).
 
 
 
-                          David Loving – President
+**Membership / Attendance**
 
-                           Cathy Hillyard - Vice President
 
-                           Doug Harrison – Secretary
+
+The meeting was attended by the following:
+
+ 
+
+Dave Loving - President
+
+Cathy Hilyard – Vice President
 
 Joan Harrison – Treasurer
 
+Doug Harrison - Secretary
+
+Bob Fellows – Board Member
+
 Terry Thornton – Board Member
 
-                           Bob Fellows – Board Member
+ 
 
-Chris White – Board Member
-
-    
-
-**Treasurer’s Report**                               
+Board Members Christ White, Dan Vaden, and Kyle Bennett were absent
 
  
 
-Joan provided a Treasurer’s Report (Attached). She estimates that the Association will have $65k by the end of 2025. There are still 8 delinquent payments for 2025 dues.
+Dave will solicit additional Board Members and officers from the community.
 
  
 
-Dave investigated conflict resolution options for Covenant violations. He was informed by local legal authorities that there are some conflict resolution techniques available to the RWPOA beyond the application of liens on property (including fines where appropriate).  
+ 
+
+**Treasurer’s Report**
+
+ 
+
+Joan presented a Treasurer’s Report (Attachment 1) The RWPOA has about $85k total resources in the bank. There will be a Certificate of Deposit renewal in September.
+
+ 
+
+We have collected $14k of a total of $25k in dues for this year. Joan agreed to add a line item  on Transfer Fees to the Report in the future. We have collected $3000 in transfer fees this year so far.
 
  
 
@@ -693,15 +711,15 @@ Dave investigated conflict resolution options for Covenant violations. He was in
 
  
 
-US post office refused to replace old locks. We offered to pay for repairs if they reimburse us. Our mail carrier, Bruce, has been reassigned. The new postal delivery person is unfamiliar with our issues.
+There are no major issues with the Mail Boxes at this time.
 
  
 
-The USPS won’t repair their old boxes – still working but in disrepair.
+Some boxes need oiling with WD 40 to resolve sticking issue
 
  
 
-We have 80+mailboxes – don’t really need any more
+Unfortunately the USPS did not support our proposal to place the boxes in numerical order, so some incorrect deliveries are experienced
 
  
 
@@ -709,35 +727,63 @@ We have 80+mailboxes – don’t really need any more
 
 
 
-The primary subject of the meeting was a discussion of maintenance plans for the common area docks.
+At the May Membership Meeting, the Board will propose that a ramp replacement project costing about $19K be done after season. A 16 foot wide single ramp will ensure that all boats can use the facilties.
 
  
 
-It’s been concluded that complete replacement of the docks is not really a viable path due to the high cost and relatively short longevity. The docks were replaced completely in 2013 and have degraded over time. The front dock section was replaced again (more robustly) in 2016, but still needs more work. Alternatives were discussed including:
+We will continue with regular maintenance on the wood in the Docks. Most owners have repaired the problem slips.
+
+**Annual Membership Meeting**
 
  
 
-1. Expansion of the boat ramp to 16 feet is critical. Many of the very popular boats (pontoon style) are too big to use our existing ramps. The existing ramp is also in a state of disrepair. An estimate for replacement of the ramp with elimination of the second nearly unusable ramp was obtained ($19k – 2025 prices)
+As usual, the Annual Membership Meeting will be held in the Common area on the first Saturday in May (May 2) at 11 AM in the Common Area. The Harrison house will be the host location if there is bad weather.
 
  
 
-2. Front pier changes are being discussed. However, the extent of that work is unclear and needs to be supported by scoping design work.
+
 
  
 
-3. The dock adjacent to slips 40-48 is in serious disrepair and a project will be needed at some point to replace the walkway in that section. (Note: two stringers are missing from that area.)
-
-   
-
-4. The remainder of the docks should be repaired only as necessary to ensure safe access to the boats.
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
  
 
-Permitting requirements requiring approval by both Spotsylvania County and Dominion Energy will have to be considered. 
-
  
 
-The Board will obtain some engineering drawings to enable discussion of alternatives where the participants can all understand the potential scope of the projects and cost estimates. It was agreed that the Board will reconvene later in the year to progress a series of options for the membership to consider.
+ 
 
  
 
